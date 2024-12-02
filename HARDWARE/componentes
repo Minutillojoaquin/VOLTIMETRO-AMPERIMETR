@@ -1,0 +1,3 @@
+⦁	Voltímetro: mide el voltaje de las baterías mediante divisores resistivos.
+⦁	Amperímetro: utiliza el sensor ACS712 para convertir la corriente en una señal de voltaje proporcional.
+⦁	Microcontrolador con EEPROM: realiza cálculos de conversión, muestra los datos en un LCD y los almacena para análisis.
